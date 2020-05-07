@@ -1,9 +1,9 @@
 # deepdream
 Create deepdream images in python.
 # Results
-[![deepdream result videp](http://img.youtube.com/vi/wmDjFQDh5BY/0.jpg)](http://www.youtube.com/watch?v=wmDjFQDh5BY)
-[![deepdream result videp](http://img.youtube.com/vi/wmDjFQDh5BY/0.jpg)](http://www.youtube.com/watch?v=wmDjFQDh5BY)
-[![deepdream result videp](http://img.youtube.com/vi/wmDjFQDh5BY/0.jpg)](http://www.youtube.com/watch?v=wmDjFQDh5BY)
+[![starry night www.tarunbisht.com](https://storage.googleapis.com/tarun-bisht.appspot.com/blogs/deep_dream_6f2e0c8cf112caee2)
+[![forest scene](https://github.com/tarun-bisht/deepdream/blob/master/deepdream/dreams/scene/img_7.jpg)
+[![deepdream result video](http://img.youtube.com/vi/wmDjFQDh5BY/0.jpg)](http://www.youtube.com/watch?v=wmDjFQDh5BY)
 
 # Installation
 - Make sure python is installed on your system if not then download [python](https://www.python.org/downloads/)
